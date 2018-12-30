@@ -39,7 +39,7 @@
   "dependencies": {
     "fakegato-history": "^0.5.2",
     "mqtt": "^2.18.8",
-    "noble": "^1.9.1"
+    "noble-mac": "github:Timeular/noble-mac"
   },
   "devDependencies": {
     "coveralls": "^3.0.2",
